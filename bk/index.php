@@ -1,6 +1,6 @@
-<?php
+&lt;?php
 /**
- * Front to the WordPress application. This file doesn't do anything, but loads
+ * Front to the WordPress application. This file doesn&#x27;t do anything, but loads
  * wp-blog-header.php which does and tells WordPress to load the theme.
  *
  * @package WordPress
@@ -11,7 +11,7 @@
  *
  * @var bool
  */
-define( 'WP_USE_THEMES', true );
+define( &#x27;WP_USE_THEMES&#x27;, true );
 
 /** Loads the WordPress Environment and Template */
-require __DIR__ . '/wp-blog-header.php';
+require __DIR__ . &#x27;/wp-blog-header.php&#x27;;
